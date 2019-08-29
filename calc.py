@@ -5,7 +5,7 @@ def subtract(x,y):
 def multiply(x,y):
     pass
 def divide(x,y):
-    pass
+    PASS
 def square(x,y):(x,y)
     pass
 def multiply(x,y):
